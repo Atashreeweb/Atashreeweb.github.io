@@ -6,5 +6,7 @@
 <!-- #$-:Please do not edit lines starting with "#$" -->
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR:Atashree Mondal -->
-<area shape="poly" coords="8,186,591,217,522,334,524,335,15,262,14,255,17,255,11,189,86,238,33,241,18,248" target="mountain" href="mountain.mp3" />
+<area shape="rect" coords="4,187,552,307" target="Mountain" href="mountain.mp3" />
+<area shape="rect" coords="623,214,1032,309" target="Mountain" href="mountain.mp3" />
+<area shape="rect" coords="7,327,453,472"  nohref="nohref" />
 </map>

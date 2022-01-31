@@ -1,0 +1,18 @@
+<img src="[man-walking-dog] (imported)" width="1100" height="734" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Atashree Mondal -->
+<area shape="rect" coords="3,7,584,158" alt="Wind" target="audio" href="wind.mp3" />
+<area shape="rect" coords="3,184,571,298" alt="Mountain" target="audio" href="mountain.mp3" />
+<area shape="rect" coords="11,318,451,472" alt="Water" target="audio" href="Water.mp3" />
+<area shape="circle" coords="434,520,88" alt="Barking" target="audio" href="barking.mp3" />
+<area shape="rect" coords="11,521,330,646" alt="Wind" target="audio" href="wind.mp3" />
+<area shape="rect" coords="558,266,645,571" alt="Hiker" target="audio" href="hiker.mp3" />
+<area shape="rect" coords="660,345,1092,516" alt="Water" target="audio" href="Water.mp3" />
+<area shape="poly" coords="585,217,586,216,918,238,1084,332,909,339,672,327" alt="Mountain" target="audio" href="mountain.mp3" />
+<area shape="rect" coords="592,61,1085,212" alt="Wind" target="audio" href="wind.mp3" />
+</map>
